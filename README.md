@@ -23,7 +23,7 @@ The linear model predicts (r-squared value = 71%) of the mpg predictions.
 
 ![](https://github.com/c3crocks/MechaCar_Statistical_Analysis/blob/main/Images/Part2-Total_Summary.JPG)
 
-![](https://github.com/c3crocks/MechaCar_Statistical_Analysis/blob/main/Images/Part2-Total_Summary.JPG)
+![](https://github.com/c3crocks/MechaCar_Statistical_Analysis/blob/main/Images/Part2-Plot1.JPG)
 
 #### Lot Summary
 
